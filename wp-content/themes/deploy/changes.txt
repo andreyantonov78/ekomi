@@ -1,0 +1,24 @@
+1.2
+- Added new comparison pricing tables shortcode
+- Added WooCommerce 2.5.1 compatibility
+- Updated Visual Composer to 4.9.2
+- Updated Revolution Slider to 5.1.6
+- Updated documentation
+- Improved Footer Bottom responsive
+- Fixed bug with side area background image not saving
+- Fixed bug with page background color global option not working
+- Fixed bug with random counter not working
+- Fixed bug with smooth page transitions and back button on iOS
+- Fixed bug with smooth page transitions and opening link in a new tab
+
+1.1
+- Added WooCommerce 2.4.12 compatibility
+- Added option for smooth page transition between pages
+- Updated Visual Composer to 4.9.1
+- Updated Font Awesome to 4.5 version
+- Updated documentation
+- Fixed bug with sidebar on search page
+- Fixed bug with like icon on portfolio single
+- Fixed bug with image link on single audio post page
+- Fixed bug with post variable in comments editing page
+- Fixed Google Maps API warning for Sensor not longer being required

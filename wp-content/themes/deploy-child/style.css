@@ -1,0 +1,114 @@
+/*
+Theme Name: Deploy Child Theme
+Theme URI: http://deploy.mikado-themes.com
+Description: A child theme of Deploy Theme
+Author: Mikado Themes
+Author URI: http://themeforest.net/user/mikado-themes
+Version: 1.0.0
+Template: deploy
+*/
+@import url("../deploy/style.css");
+
+
+.mkdf-logo-wrapper a img {
+    height: 170%;
+}
+
+.mkdf-logo-wrapper a img.mkdf-dark-logo {
+    opacity: 0;
+    transform: translateY(-120%);
+}
+
+.mkdf-header-standard-full-width .mkdf-main-menu > ul > li > a span.item_inner {
+    padding: 0 35px 0 0;
+}
+
+.mkdf-testimonials-slider .mkdf-testimonial-title {
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.mkdf-testimonials-slider .mkdf-testimonials .mkdf-testimonial-text {
+    font-family: "Roboto",sans-serif;
+    color: #ffffff;
+    font-size: 80px;
+    font-weight: 800;
+    font-style: normal;
+    padding: 45px 0 5px;
+    line-height: 1.3em;
+}
+
+.mkdf-testimonials-slider .mkdf-testimonials .mkdf-testimonial-author-text {
+    float: left;
+    font-family: "Roboto",sans-serif;
+    font-size: 22px;
+    line-height: 1.3em;
+    font-weight: 200;
+    margin-right: 8px;
+    text-transform: none;
+    padding: 0 0 50px 0;
+}
+
+.owl-carousel .owl-wrapper-outer.autoHeight {
+  -webkit-transition: height 2000ms ease-in-out;
+  -moz-transition: height 2000ms ease-in-out;
+  -ms-transition: height 2000ms ease-in-out;
+  -o-transition: height 2000ms ease-in-out;
+  transition: height 2000ms ease-in-out;
+}
+
+.icon_quotations::before {
+    content: "p";
+}
+
+.mkdf-testimonials-slider span.mkdf-quote-title {
+    font-size: 250px;
+    left: -125px;
+    position: absolute;
+    top: 5px;
+    color: #2d9438;
+}
+
+footer .mkdf-footer-top-holder {
+    background-color: #232b34;
+}
+
+footer .mkdf-footer-bottom-holder {
+    background-color: #171f26;
+    height: 100px;
+}
+
+footer .widget .mkdf-footer-widget-title {
+    font-weight: 800;
+}
+
+
+.mkdf-top-bar .mkdf-vertical-align-containers .mkdf-position-left {
+    margin-bottom: -20px;
+}
+
+.mkdf-top-bar .mkdf-vertical-align-containers {
+    height: auto;
+    padding-bottom: 10px;
+    padding-top: 2px;
+}
+
+.mkdf-counter-holder.mkdf-counter-light {
+    border: 0px;
+ }   
+    
+.mkdf-blog-carousel-boxes h4.mkdf-boxes-item-title a {
+    font-family: "Roboto",sans-serif;
+    text-transform: none;
+    font-size: 26px;
+    line-height: 34px;
+    font-weight: 700;
+}
+.mkdf-blog-carousel-boxes .mkdf-blog-boxes-category {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.mkdf-page-header .mkdf-sticky-header .mkdf-sticky-holder {
+  border-bottom: 1px solid #36953e;
+}
