@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?= dirname(get_bloginfo('stylesheet_url')) ?>/slider/css/fonts/stylesheet.css">

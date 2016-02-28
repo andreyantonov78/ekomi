@@ -3,6 +3,7 @@
 Template Name: Full Width
 */ 
 ?>
+<?php echo('local project 123') ?>
 <?php
 $sidebar = deploy_mikado_sidebar_layout(); ?>
 
